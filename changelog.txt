@@ -1,0 +1,37 @@
+== Politics Changelog ==
+
+= 1.0.7 - April 5, 2017 =
+* Update readme
+
+= 1.0.6 - March 20, 2017 =
+* Updated Font Awesome to 4.7
+
+
+= 1.0.5 - Oct 26, 2016 =
+* Fix for spacing in submenus
+
+= 1.0.4 - Mar 29, 2016 =
+* Added Mailchimp for WP plugin support
+* Removed support for Mailbag plugin
+* Adjusted styling for donation form
+
+= 1.0.3 - Dec 11, 2015 =
+* Consolidating upsell links
+
+= 1.0.2 - Nov 30, 2015 =
+* Removed accesiblity-ready tag
+* Added additional instructions to readme.txt
+* Fixed home hero overlay color
+
+= 1.0.1 - Nov 16, 2015 =
+* Added unminified versions of Font Awesome & Slick Nav stylesheets for reference
+* Updating escaping in header.php and extras.php
+* Removed 'left-sidebar' tag
+* Updated default gallery display
+* Updated comments style
+* Fixed footer copyright setting
+* Added support for Give Donation plugin
+* Added link to home page post dates
+
+= 1.0 - Sept 10, 2015 =
+* Initial release

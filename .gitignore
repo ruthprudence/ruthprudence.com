@@ -46,3 +46,33 @@ wp-config.php
 # Note: If you wish to whitelist themes,
 # uncomment the next line
 #/wp-content/themes
+=======
+# WordPress core files
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+.htaccess
+
+# Other files to ignore
+*.log
+.DS_Store
+PICHA/
+angular/
+cs/
+customizer/
+demos/
+films/
+globalImageUSA/
+apps/
+form-example/
+scss/
+studio104/
+test/
+zodiac/
+img/
+web170.php
+astrology/
+bd321.php
+productions/
+

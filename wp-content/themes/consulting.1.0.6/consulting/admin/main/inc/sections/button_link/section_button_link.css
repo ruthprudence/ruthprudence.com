@@ -1,0 +1,14 @@
+/* Section - Upgrade Now */
+[class*="control-section-thinkup-button-link"] .accordion-section-title:hover,
+[class*="control-section-thinkup-button-link"] .accordion-section-title:focus {
+	background-color: #fff !important;
+}
+[class*="control-section-thinkup-button-link"] .accordion-section-title .button {
+	font-weight: 400;
+	margin-top: -4px;
+	margin-left: 8px;
+}
+.rtl [class*="control-section-thinkup-button-link"] .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
